@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "67c7b6b971af649fed61197d"
+  },
+  "nombre": "Empresa Editada",
+  "email": "empresaeditada@ejemplo.com",
+  "nivelImpacto": "Alto",
+  "añosTrayectoria": "6",
+  "categoria": "Consultoría",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:28:09.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:48:25.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7b6ee71af649fed611981"
+  },
+  "nombre": "PlayStation",
+  "email": "ps@org.com",
+  "nivelImpacto": "Alto",
+  "añosTrayectoria": "5",
+  "categoria": "Tecnología",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:29:02.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:29:02.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7b7b771af649fed611985"
+  },
+  "nombre": "Xbox",
+  "email": "xbox@org.com",
+  "nivelImpacto": "Alto",
+  "añosTrayectoria": "4",
+  "categoria": "Tecnología",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:32:23.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:32:23.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7b7d071af649fed611989"
+  },
+  "nombre": "McDonalds",
+  "email": "MacGT@org.com",
+  "nivelImpacto": "Alto",
+  "añosTrayectoria": "20",
+  "categoria": "Comida",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:32:48.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:32:48.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7b7e571af649fed61198d"
+  },
+  "nombre": "BurgerKing",
+  "email": "BKingGT@org.com",
+  "nivelImpacto": "Alto",
+  "añosTrayectoria": "20",
+  "categoria": "Comida",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:33:09.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:33:09.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7b7fe71af649fed611991"
+  },
+  "nombre": "Honda",
+  "email": "HondaGT@org.com",
+  "nivelImpacto": "Medio",
+  "añosTrayectoria": "60",
+  "categoria": "Autos",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T02:33:34.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T02:33:34.317Z"
+  }
+}]
