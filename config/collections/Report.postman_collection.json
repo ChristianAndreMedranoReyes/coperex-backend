@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "ff208cab-3cc5-4e39-bceb-cc8548ff917c",
+		"name": "Report",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42553440"
+	},
+	"item": [
+		{
+			"name": "report",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
